@@ -1,6 +1,6 @@
 ## Hi there, I´m Eduardo, specialist in solving problem with technology.
 - 🔭 I’m currently working on 'Secretaria de Fazenda do Estado de Minas Gerais' (SEF/MG) with analytical intelligence solutions.
-- 🌱 I’m  currently deepening my knowledge in **Data Mining and Natural Language** Processing techniques
+- 🌱 I’m deepening my knowledge in **Data Mining and Natural Language** Processing techniques
 - :arrow_right: **Bachelor** in Electronic Engineering
 - :arrow_right: **Data Scientist** with Tax Law specialization
 - :arrow_right: Self-taught attracted by curiosity
