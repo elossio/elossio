@@ -1,10 +1,26 @@
-### Hi there, I´m Eduardo. Specialist in solving problems using technology.
+## Hi there, I´m Eduardo, specialist in solving problem with technology.
 - 🔭 I’m currently working on 'Secretaria de Fazenda do Estado de Minas Gerais' (SEF/MG) with analytical intelligence solutions.
-- 🌱 I’m  currently deepening my knowledge in data mining and Natural Language Processing techniques
-- :arrow_right: Bachelor in Electronic Engineering
-- :arrow_right: Data Scientist with Tax Law specialization
+- 🌱 I’m  currently deepening my knowledge in **Data Mining and Natural Language** Processing techniques
+- :arrow_right: **Bachelor** in Electronic Engineering
+- :arrow_right: **Data Scientist** with Tax Law specialization
 - :arrow_right: Self-taught attracted by curiosity
 - 🖥️ Skills:
+<div display="inline">
+  <img width="85" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+</div>
+
+##
+
+#### You can find me in:
+&nbsp;<a href="https://www.linkedin.com/in/eduardo-vargas-lossio/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+
+          
 <!--
 **elossio/elossio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
