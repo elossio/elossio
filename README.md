@@ -1,6 +1,6 @@
 ## Hello, I'm Eduardo, specialist in problem solving using technology.
 - 🔭 I’m currently working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with analytical intelligence solutions.
-- 🌱 I'm currently deepening my knowledge in **Natural Language Processing** (NLP) and **data mining** techniques and improving the ability to tell quality stories using audiovisual resources in addition to words (**storytelling**).
+- 🌱 I'm currently improving **Natural Language Processing** (NLP), **data mining** techniques and the ability to tell quality stories using audiovisual resources in addition to words (**storytelling**).
 - :arrow_right: **Bachelor** in Electronic Engineering
 - :arrow_right: **Data Scientist** with Tax Law specialization
 - :running: Self-taught driven by curiosity and new challenges
