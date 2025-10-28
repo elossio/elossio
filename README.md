@@ -1,6 +1,6 @@
 ## Hello, I'm Eduardo, specialist in problem solving using technology.
 - I am a Senior **Revenue Auditor** and **Data Scientist** with Tax Law specialization.
-- 🔭 I've been working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with analytical intelligence solutions.
+- 🔭 I've been working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with Data Analytics.
 - :arrow_right: **Bachelor** in Electronic Engineering
 - :running: Self-taught driven by curiosity and new challenges
 - 🖥️ Main skills:
