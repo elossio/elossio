@@ -1,9 +1,8 @@
-## Hello, I'm Eduardo, specialist in problem solving using AI technologies.
-- I am a Senior **Revenue Auditor** and **Data Scientist** with Tax Law specialization.
-- 🔭 I've been working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with Data Mining and Data Analytics.
-- :arrow_right: **Bachelor** in Electronic Engineering
+## Hello, I'm Eduardo, a Senior **Revenue Auditor** and **Data Scientist** specialist in problem solving using AI technologies.
+- Education Background: BS in Electronic Engineering from the Universidade Gama Filho and Specialization in Tax Law from Instituto Brasileiro de Estudos Tributários
+- Current Occupation: 🔭 I've been working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with Data Mining and Data Analytics.
 - :running: Self-taught driven by curiosity and new challenges
-- 🖥️ Main skills:
+- 🖥️ Relevant Skills:
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
   <img width="85" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png" />
