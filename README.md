@@ -13,6 +13,7 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-plain.svg" />
   <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img width="50" height="50"src="https://brandlogovector.com/wp-content/uploads/2022/01/Apache-Spark-Logo.png" />
+  <img width="50" height="50"src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" />
 </div>
 
 ##
