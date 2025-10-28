@@ -9,11 +9,14 @@
   <img width="50" height="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-icon-svg-download-png-12846875.png?f=webp&w=512" />
   <img width="50" height="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/nosql-icon-svg-download-png-8509363.png?f=webp&w=512" />
   <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/10306/10306116.png" />
+  <img width="50" height="50"src="https://cdn-icons-png.flaticon.com/512/8618/8618875.png" />
+  <img width="50" height="50"src="https://cdn-icons-png.flaticon.com/512/9716/9716590.png" />
   <img width="85" height="50" src="https://apps-on-mac.com/wp-content/uploads/2023/06/how-to-run-sas-enterprise-guide-on-mac.png?is-pending-load=1" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-plain.svg" />
   <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img width="50" height="50"src="https://brandlogovector.com/wp-content/uploads/2022/01/Apache-Spark-Logo.png" />
   <img width="50" height="50"src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" />
+
 </div>
 
 ##
