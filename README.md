@@ -12,6 +12,7 @@
   <img width="85" height="50" src="https://apps-on-mac.com/wp-content/uploads/2023/06/how-to-run-sas-enterprise-guide-on-mac.png?is-pending-load=1" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-plain.svg" />
   <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+  <img width="50" height="50"src="https://brandlogovector.com/wp-content/uploads/2022/01/Apache-Spark-Logo.png" />
 </div>
 
 ##
