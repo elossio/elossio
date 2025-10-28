@@ -1,4 +1,4 @@
-## Hello, I'm Eduardo, specialist in problem solving using technology.
+## Hello, I'm Eduardo, specialist in problem solving using AI technologies.
 - I am a Senior **Revenue Auditor** and **Data Scientist** with Tax Law specialization.
 - 🔭 I've been working for "Secretaria de Fazenda do Estado de Minas Gerais" (SEF/MG) with Data Analytics.
 - :arrow_right: **Bachelor** in Electronic Engineering
